@@ -1,12 +1,19 @@
-# CyberFortress - Projeto Integrador (SENAC)
-> **Segurança em Camadas e Proteção Contra Ransomware para Clínica Médica**
+<img width="1061" height="317" alt="image" src="https://github.com/user-attachments/assets/b2d88a8c-6266-44da-a420-8a2ece4ea5f0" />
 
-![pfSense](https://img.shields.io/badge/pfSense-212B35?style=for-the-badge&logo=pfsense&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian_13-A80030?style=for-the-badge&logo=debian&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D21920?style=for-the-badge&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+---
+
+<div align="center">
+  <h1>🛡️ CyberFortress - Projeto Integrador (SENAC)</h1>
+  <p><b>Segurança em Camadas e Proteção Contra Ransomware para Clínica Médica</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/pfSense-212B35?style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Debian_13-A80030?style=for-the-badge&logo=debian&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zabbix-D21920?style=for-the-badge&logo=zabbix&logoColor=white" />
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
+  </p>
+</div>
 
 ---
 ### 👥 Equipe
