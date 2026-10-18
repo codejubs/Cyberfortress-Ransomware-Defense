@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h1>🛡️ CyberFortress - Projeto Integrador (SENAC)</h1>
   <p><b>Segurança em Camadas e Proteção Contra Ransomware para Clínica Médica</b></p>
   <p>
